@@ -1,0 +1,38 @@
+
+div {
+  /* width: 200 px;
+  height: 200 px; */
+  border: 5px solid black;
+  padding: 100px;
+}
+
+#first-div {
+  background-color: #39cccc;
+  box-sizing: border-box;
+}
+
+#second-div {
+  background-color: #ff4136;
+  box-sizing: border-box;
+}
+
+p {
+  background-color: #7fdbff;
+}
+
+div {
+  min-height: 10px;
+}
+
+.image-1-container {
+  width: 200px;
+  height: 600px;
+  background-color: pink;
+}
+
+.image-2-container > img {
+  box-sizing: border-box;
+  width: 100%;
+  height: auto;
+  background-color: pink;
+}
